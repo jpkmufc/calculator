@@ -55,6 +55,9 @@
 .number-button {
     background-color: var(--number-color);
 }
+.number-button::after {
+
+}
 
 .button-equal {
     background-color: var(--equal-color);
